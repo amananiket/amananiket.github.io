@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on Aman Aniket</title>
+    <link>https://amananiket.com/tags/thoughts/</link>
+    <description>Recent content in thoughts on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Sep 2017 16:04:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Religion</title>
+      <link>https://amananiket.com/posts/religion/</link>
+      <pubDate>Sun, 03 Sep 2017 16:04:46 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/religion/</guid>
+      <description>All of us are born into a religion. A lot of us spend our whole lives defending a dogma that was associated to us just by a matter of consequence. Come to think of it, I had myself not tried seeing the bigger picture and had largely procrastinated investigating the central idea of religion. The question was posed while going through Sapiens which is a de-facto outer view of the history of human existence.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Aman Aniket</title>
+    <link>https://amananiket.com/tags/blog/</link>
+    <description>Recent content in blog on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2017 00:06:38 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uno</title>
+      <link>https://amananiket.com/posts/uno/</link>
+      <pubDate>Sun, 06 Aug 2017 00:06:38 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/uno/</guid>
+      <description>I had always wanted to host my own blog. I guess I was just too lazy to actually write one from scratch. But what you see is indeed a work conceived and built bottom-up and not a clone. I&amp;rsquo;m proud of myself that I could come around convincing myself that I should do this. For the interested reader, this website is built on the Hugo framework with Cactus theme. Building yourself one like this is pretty easy and should be a matter of minutes if you know your way around code.</description>
+    </item>
+    
+  </channel>
+</rss>

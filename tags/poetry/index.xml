@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poetry on Aman Aniket</title>
+    <link>https://amananiket.com/tags/poetry/</link>
+    <description>Recent content in poetry on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 May 2017 16:33:28 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I wrote a poem!</title>
+      <link>https://amananiket.com/posts/poem/</link>
+      <pubDate>Tue, 23 May 2017 16:33:28 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/poem/</guid>
+      <description>Yes, had to be done. This came up to me during one of the discussions that I should write a poem. As impulsive as I am, I went ahead and actually wrote one. Please pardon me for wasting 2–3 minutes of your life (depending on your wpm of course)
+ What would I want from the girl whom I’d want to be with?
+I would say just be yourself. Just follow your heart,</description>
+    </item>
+    
+  </channel>
+</rss>

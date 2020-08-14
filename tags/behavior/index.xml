@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavior on Aman Aniket</title>
+    <link>https://amananiket.com/tags/behavior/</link>
+    <description>Recent content in behavior on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Aug 2017 15:33:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book review: Thinking, Fast And Slow</title>
+      <link>https://amananiket.com/posts/thinking-fast-and-slow/</link>
+      <pubDate>Wed, 30 Aug 2017 15:33:49 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/thinking-fast-and-slow/</guid>
+      <description>Daniel Kahneman, the author of Thinking, Fast and Slow is a renowned psychologist and a Nobel laureate in Economics. Through this book, he talks about his broader contribution to behavioral psychology and the science of decision-making including this Nobel winning work Prospect Theory.
+ During the course of our day-to-day functioning, we take innumerous decisions. A majority of these decisions come naturally to us guided by our intuition, often at the risk of fleeting assumptions and systematic errors in judgement.</description>
+    </item>
+    
+  </channel>
+</rss>

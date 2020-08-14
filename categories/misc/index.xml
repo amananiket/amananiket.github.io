@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Aman Aniket</title>
+    <link>https://amananiket.com/categories/misc/</link>
+    <description>Recent content in Misc on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Aug 2017 00:32:19 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Racing</title>
+      <link>https://amananiket.com/posts/racing/</link>
+      <pubDate>Fri, 25 Aug 2017 00:32:19 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/racing/</guid>
+      <description>I have never been a racing person. What I have always enjoyed and found challenging though is the ultra aspect of things. Having said that, there&amp;rsquo;s that thrill you get from speed which is all but a different flavor of the sport. So when The Champions Sportive was announced, which essentially is planned to be a set of 102K competitive races across 8 cities of the country. This is the first edition and Bangalore was the first city to host it.</description>
+    </item>
+    
+    <item>
+      <title>Uno</title>
+      <link>https://amananiket.com/posts/uno/</link>
+      <pubDate>Sun, 06 Aug 2017 00:06:38 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/uno/</guid>
+      <description>I had always wanted to host my own blog. I guess I was just too lazy to actually write one from scratch. But what you see is indeed a work conceived and built bottom-up and not a clone. I&amp;rsquo;m proud of myself that I could come around convincing myself that I should do this. For the interested reader, this website is built on the Hugo framework with Cactus theme. Building yourself one like this is pretty easy and should be a matter of minutes if you know your way around code.</description>
+    </item>
+    
+  </channel>
+</rss>

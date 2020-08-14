@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beatles on Aman Aniket</title>
+    <link>https://amananiket.com/tags/beatles/</link>
+    <description>Recent content in beatles on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Apr 2017 15:28:53 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/tags/beatles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, Goodbye</title>
+      <link>https://amananiket.com/posts/hello-goodbye/</link>
+      <pubDate>Wed, 19 Apr 2017 15:28:53 +0530</pubDate>
+      
+      <guid>https://amananiket.com/posts/hello-goodbye/</guid>
+      <description>Somebody asks me, ‘Oh, You are a final year right? You must be feeling terrible about leaving this place! “. Should I? I think. And then indulge myself into a reverie
+ I came to to this place exactly 5 years ago with lots of hopes and expectations. The excitement of entering that phase of life is inexplicable. The most dominant feeling coming here was freedom. Yes, more than anything else.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aman Aniket</title>
+    <link>https://amananiket.com/categories/</link>
+    <description>Recent content in Categories on Aman Aniket</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Oct 2017 00:12:37 +0530</lastBuildDate>
+    
+	<atom:link href="https://amananiket.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reviews</title>
+      <link>https://amananiket.com/categories/reviews/</link>
+      <pubDate>Mon, 09 Oct 2017 00:12:37 +0530</pubDate>
+      
+      <guid>https://amananiket.com/categories/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musings</title>
+      <link>https://amananiket.com/categories/musings/</link>
+      <pubDate>Sun, 03 Sep 2017 16:04:46 +0530</pubDate>
+      
+      <guid>https://amananiket.com/categories/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://amananiket.com/categories/misc/</link>
+      <pubDate>Fri, 25 Aug 2017 00:32:19 +0530</pubDate>
+      
+      <guid>https://amananiket.com/categories/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://amananiket.com/categories/travel/</link>
+      <pubDate>Sun, 13 Aug 2017 01:26:31 +0530</pubDate>
+      
+      <guid>https://amananiket.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
