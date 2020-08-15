@@ -862,12 +862,7 @@ ul.jabwemet-nav-list.navigator {
 }
 
 .jabwemet-nav {
-    min-width: 200px;
-}
-.img-responsive.jabwemet.gallery {
-    display: block;
-    margin-left: 40%;
-    width: 20%;
+    min-width: 100px;
 }
 
 .img-responsive.mobile {
